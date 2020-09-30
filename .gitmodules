@@ -6,3 +6,8 @@
 	path = vendor-bills
 	url = git@git.vauxoo.com:vauxoo/vendor-bills.git
 	branch = 13.0
+
+[submodule "lizeth-miranda/Asistencias"]
+	path = lizeth-miranda/Asistencias
+	url = git@github.com:lizeth-miranda/Asistencias.git
+	branch = master

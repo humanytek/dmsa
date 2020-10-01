@@ -11,3 +11,8 @@
 	path = lizeth-miranda/Asistencias
 	url = git@github.com:lizeth-miranda/Asistencias.git
 	branch = master
+
+[submodule "lizeth-miranda/ajuste"]
+	path = lizeth-miranda/ajuste
+	url = git@github.com:lizeth-miranda/ajuste.git
+	branch = master

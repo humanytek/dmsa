@@ -16,3 +16,8 @@
 	path = lizeth-miranda/ajuste
 	url = git@github.com:lizeth-miranda/ajuste.git
 	branch = master
+
+[submodule "lizeth-miranda/campo-unico"]
+	path = lizeth-miranda/campo-unico
+	url = git@github.com:lizeth-miranda/campo-unico.git
+	branch = main

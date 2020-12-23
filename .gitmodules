@@ -21,3 +21,8 @@
 	path = lizeth-miranda/campo-unico
 	url = git@github.com:lizeth-miranda/campo-unico.git
 	branch = main
+
+[submodule "lizeth-miranda/consumido"]
+	path = lizeth-miranda/consumido
+	url = git@github.com:lizeth-miranda/consumido.git
+	branch = main

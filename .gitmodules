@@ -26,3 +26,8 @@
 	path = lizeth-miranda/consumido
 	url = git@github.com:lizeth-miranda/consumido.git
 	branch = main
+
+[submodule "lizeth-miranda/Descuento"]
+	path = lizeth-miranda/Descuento
+	url = git@github.com:lizeth-miranda/Descuento.git
+	branch = main

@@ -31,3 +31,8 @@
 	path = lizeth-miranda/Descuento
 	url = git@github.com:lizeth-miranda/Descuento.git
 	branch = main
+
+[submodule "lizeth-miranda/mantenimiento"]
+	path = lizeth-miranda/mantenimiento
+	url = git@github.com:lizeth-miranda/mantenimiento.git
+	branch = main

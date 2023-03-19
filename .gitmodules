@@ -41,3 +41,8 @@
 	path = lizeth-miranda/campos_extras
 	url = git@github.com:lizeth-miranda/campos_extras.git
 	branch = main
+
+[submodule "lizeth-miranda/Asistencias-Demsa-16"]
+	path = lizeth-miranda/Asistencias-Demsa-16
+	url = git@github.com:lizeth-miranda/Asistencias-Demsa-16.git
+	branch = main

@@ -51,3 +51,8 @@
 	path = lizeth-miranda/Edicion_factura16
 	url = git@github.com:lizeth-miranda/Edicion_factura16.git
 	branch = main
+
+[submodule "lizeth-miranda/Campo_unicov16"]
+	path = lizeth-miranda/Campo_unicov16
+	url = git@github.com:lizeth-miranda/Campo_unicov16.git
+	branch = main

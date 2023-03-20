@@ -46,3 +46,8 @@
 	path = lizeth-miranda/Asistencias-Demsa-16
 	url = git@github.com:lizeth-miranda/Asistencias-Demsa-16.git
 	branch = main
+
+[submodule "lizeth-miranda/Edicion_factura16"]
+	path = lizeth-miranda/Edicion_factura16
+	url = git@github.com:lizeth-miranda/Edicion_factura16.git
+	branch = main

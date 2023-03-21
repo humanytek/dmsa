@@ -56,3 +56,8 @@
 	path = lizeth-miranda/Campo_unicov16
 	url = git@github.com:lizeth-miranda/Campo_unicov16.git
 	branch = main
+
+[submodule "lizeth-miranda/Campos_extrasv16"]
+	path = lizeth-miranda/Campos_extrasv16
+	url = git@github.com:lizeth-miranda/Campos_extrasv16.git
+	branch = main

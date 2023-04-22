@@ -61,3 +61,8 @@
 	path = lizeth-miranda/Campos_extrasv16
 	url = git@github.com:lizeth-miranda/Campos_extrasv16.git
 	branch = main
+
+[submodule "lizeth-miranda/MANTENIMIENTOV16"]
+	path = lizeth-miranda/MANTENIMIENTOV16
+	url = git@github.com:lizeth-miranda/MANTENIMIENTOV16.git
+	branch = main

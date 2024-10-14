@@ -76,3 +76,8 @@
 	path = lizeth-miranda/account_multipayment_factoring
 	url = git@github.com:lizeth-miranda/account_multipayment_factoring.git
 	branch = main
+
+[submodule "lizeth-miranda/extended_attendance"]
+	path = lizeth-miranda/extended_attendance
+	url = git@github.com:lizeth-miranda/extended_attendance.git
+	branch = main

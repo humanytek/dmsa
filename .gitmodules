@@ -66,3 +66,8 @@
 	path = lizeth-miranda/MANTENIMIENTOV16
 	url = git@github.com:lizeth-miranda/MANTENIMIENTOV16.git
 	branch = main
+
+[submodule "lizeth-miranda/account_multipayment_general"]
+	path = lizeth-miranda/account_multipayment_general
+	url = git@github.com:lizeth-miranda/account_multipayment_general.git
+	branch = main

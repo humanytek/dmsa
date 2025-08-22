@@ -81,3 +81,8 @@
 	path = lizeth-miranda/extended_attendance
 	url = git@github.com:lizeth-miranda/extended_attendance.git
 	branch = main
+
+[submodule "lizeth-miranda/stock-negativo"]
+	path = lizeth-miranda/stock-negativo
+	url = git@github.com:lizeth-miranda/stock-negativo.git
+	branch = main
